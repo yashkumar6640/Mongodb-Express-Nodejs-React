@@ -1,0 +1,20 @@
+{
+  "name": "fullstack",
+  "description": "fullstack",
+  "main": "index.js",
+  "authors": [
+    "yash"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^16.1.0"
+  }
+}
